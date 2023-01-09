@@ -1,1 +1,1 @@
-# Lookism
+# Lookism를 위한 
